@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">DEXeManager</string>
+    <string name="app_name" translatable="false">DEXeManager</string>
+
+    <string name="storage_url" translatable="false">gs://dexemanager-app.appspot.com</string>
+
+    <string name="query_is_empty_error">Query is empty!</string>
+    <string name="app_object_is_null_error">App object is null!</string>
+    <string name="downloading">Downloading</string>
+    <string name="installing">Installing...</string>
+    <string name="update">Update</string>
+    <string name="app_name_space">DEXe Manager</string>
 </resources>
